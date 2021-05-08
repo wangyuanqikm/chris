@@ -37,4 +37,5 @@
 
 * 查看git 配置列表  
 ```git config --list```  
-在git bash中查看config --list 是如果有多页，按空格**
+在git bash中查看config --list 是如果有多页，按```空格键```向后查看，按```B键```向前看，按```Q键```退出
+* 现象：```fatal: unable to access https://github.com/wangyuanqikm/chris.git/: Empty reply from server```
